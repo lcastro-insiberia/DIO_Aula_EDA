@@ -1,2 +1,2 @@
-# DIO_Aula_EDA
-Aula de Análise Exploratoria com Python - DIO 
+# Aula de análise exploratoria de dados.
+Curso de Ciencias de Dados do Bootcamp da Digital Inovation One. 
